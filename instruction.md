@@ -82,7 +82,6 @@
 ![мем о контроле версий](memchik.jpg)
 
 ## **Полезные ссылки**
-
 [Скачать Git](https://git-scm.com)
 
 [Скачать VS Code](https://code.visualstudio.com)
